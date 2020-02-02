@@ -1,2 +1,0 @@
-# notifyAlert
-Created with CodeSandbox
